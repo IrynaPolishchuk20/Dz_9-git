@@ -9,3 +9,6 @@ body{
 .content h3{
     text-align: center;
 }
+.content p{
+    text-align: start;
+}
