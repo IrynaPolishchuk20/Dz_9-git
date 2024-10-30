@@ -33,3 +33,10 @@ body{
     float: right;
     margin: 3px;
 }
+.box2 img{
+    height: 250px;
+    width: 350px;
+    position: relative;
+    float: left;
+    margin: 3px;
+}
