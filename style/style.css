@@ -11,4 +11,14 @@ body{
 }
 .content p{
     text-align: start;
+    margin: 3px;
+}
+
+.box img{
+    height: 300px;
+    width: 450px;
+    position: relative;
+    float: left;
+    margin: 3px;
+
 }
