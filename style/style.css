@@ -8,17 +8,28 @@ body{
 
 .content h3{
     text-align: center;
+    clear: both;
 }
 .content p{
     text-align: start;
     margin: 3px;
+    
 }
 
 .box img{
-    height: 300px;
-    width: 450px;
+    height: 250px;
+    width: 350px;
     position: relative;
     float: left;
     margin: 3px;
+}
 
+
+
+.box1 img{
+    height: 250px;
+    width: 350px;
+    position: relative;
+    float: right;
+    margin: 3px;
 }
